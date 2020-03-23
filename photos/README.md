@@ -1,0 +1,1 @@
+- `/photos` : fichiers des photos/images au format .PNG, .JPG, .SVG

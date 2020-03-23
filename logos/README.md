@@ -1,0 +1,1 @@
+- `/logos` : fichiers (images) des logos au format .PNG, .JPG, .SVG

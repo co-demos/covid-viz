@@ -1,0 +1,1 @@
+- `/graphisme` : fichiers des différents éléments constituant la charte graphique (maquette, charte graphique, ...)

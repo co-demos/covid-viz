@@ -1,0 +1,152 @@
+<style>
+
+  .img-mini{
+    max-width: 120px;
+    height: auto;
+  }
+  .img-medium{
+    max-width: 250px;
+    height: auto;
+  }
+  .img-large{
+    max-width: 400px;
+    height: auto;
+  }
+  figure {
+    margin: auto;
+  }
+  .is-horizontal-center {
+    justify-content: center;
+  }
+  
+  .top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5em 0 3em 0 ;
+  }
+
+</style>
+
+<main id="home">
+
+  <br>
+
+  <section id="top" class="hero primary-bg">
+    <div
+      class="background columns is-centered " 
+      style="
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding:4em 0;
+        "
+      >
+
+      <div class="column is-8">
+
+        <br>
+        
+        <div class="has-text-centered content is-horizontal-center">
+          <figure class="image img-medium is-inline-block">
+            <img src="https://raw.githubusercontent.com/co-demos/PING-carto/master/logos/PingCarto/logo_ping.png" alt="Placeholder image">
+          </figure>
+        </div>
+
+        <h1 class="title is-1 has-text-centered">
+          Regards sur les tiers-lieux en Pays de la Loire 
+        </h1>
+
+        <br>
+        <br>
+
+        <form action="/recherche" method="GET" class="columns">
+
+          <div class="column is-9">
+
+            <div class="control has-icons-left is-large">
+
+              <input
+                type="search"
+                name="text"
+                class="input is-large"
+                placeholder="Cherchez un tiers-lieu">
+              
+              <span class="icon is-left">
+                <i class="fas fa-search"></i>
+              </span>
+            </div>
+
+          </div>
+
+          <div class="column is-3 is-hidden-mobile">
+
+            <button class="button is-fullwidth is-primary is-primary-b is-outlined is-large" 
+              style="padding-left: 0;"
+              type="submit"
+              >
+              <span class="is-hidden-touch" style="padding-left:0.7em;">
+                Rechercher
+              </span>
+              <span class="icon is-hidden-desktop">
+                <i class="fas fa-search"></i>
+              </span>
+            </button>
+
+          </div>
+
+        </form>
+
+        <!-- <h3>
+          <span class="counter is-secondary">?</span>
+          <span class="text is-secondary">
+            projets déjà référencés
+          </span>
+        </h3> -->
+
+      </div>
+    </div>
+  </section>
+
+  <section class="container">
+
+    <div class="columns is-centered">
+      <div class="column is-8 content">
+        
+        <h2 class="has-text-centered">
+          Présentation
+        </h2>
+
+        <p>
+          La carte des tiers-lieux en Pays de la Loire, proposée par PiNG avec le soutien de la Région, a pour objectif de donner à voir la dynamique tiers-lieux sur le territoire régional. Elle permet ainsi de faciliter l’identification des acteurs du mouvement et de valoriser le maillage de ces lieux sur la région. 
+        </p>
+        <p>
+          Elle assume la pluralité des visions de la notion de tiers-lieu des acteurs tête de réseaux sur le sujet (CGET/ANCT, CRESS et PiNG) en valorisant leurs différents jeux de données.
+        </p>
+        <p>
+          Elle propose un classement renouvelé des autres cartographies des tiers-lieux par le biais de sa nomenclature qui met en avant le potentiel transformateur de ces initiatives et dépasse ainsi la catégorisation par « type d’espace ». 
+        </p>
+        <p>
+          Elle vous permettra, nous l’espérons, de découvrir la richesse du mouvement tiers-lieu en Pays de la Loire !
+        </p>
+        <p>
+          Bonne déambulation !
+        </p>
+        <p>
+          En savoir plus sur la démarche : <a href="/la-demarche">cliquez ici</a>
+        </p>
+
+
+
+        <br>
+        <br>
+        
+      </div>
+    </div>
+  </section>
+
+
+  <br>
+  <br>
+
+</main>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{language}}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>
+			{{ app_config.app_title.content }}
+			{# APIVIZ #}
+		</title>
+
+		{# CUSTOM APP META DATA #}
+		<meta name="keywords" 		content="{{ app_metas.keywords }}">
+		<meta name="author"		  	content="{{ app_metas.authors }}">
+		<meta name="description" 	content="{{ app_metas.description }}">
+
+		<meta name="config_name" 	content="{{ config_name }}">
+
+		<meta name="user_token" 	content="test_token">
+
+		{# GOOGLE INDEXING / cf : https://support.google.com/webmasters/answer/6259634?hl=en #}
+		{# <meta name="google-site-verification" content="" /> #}
+
+		{# MIX PANEL - METRICS --- only in production mode #}
+		{% if config_name == "production" %}
+
+		{% endif %}
+		
+		{# <link rel="stylesheet" href="{{ url_for('static', filename='build/bundle.css') }}"> #}
+		<link rel="stylesheet" href="/static/build/bundle.css?18">
+
+
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" crossorigin="anonymous"></script>
+
+		<script defer src="{{ url_for('static', filename='json/CHOICES_FILTERS_TAGS.js') }}"></script>
+		<script defer src="{{ url_for('static', filename='json/CHOICES_FILTERS_GEOLOC.js') }}"></script>
+		<script defer src="{{ url_for('static', filename='json/CATEGORIES_CIS_DICT_FLAT.js') }}"></script>
+		<script defer src="{{ url_for('static', filename='json/NORMALIZATION_TAGS_SOURCES_CIS_DICT.js') }}"></script>
+		<script defer src="{{ url_for('static', filename='json/NOMENCLATURE_CIS_DICT.js') }}"></script>
+
+
+		<!-- CUSTOM MIXPANEL CALLS  -->
+
+		{% if config_name == "production" %}
+
+		<script>
+			// https://blog.toky.co/mixpanels-basic-tutorial-guide-to-start-custom-event-tracking-on-your-website/
+		</script>
+
+		{% endif %}
+
+		{# HACK CACHING : https://stackoverflow.com/questions/32414/how-can-i-force-clients-to-refresh-javascript-files #}
+		<script defer src="/static/build/bundle.js?1403"></script>
+
+	</head>
+
+
+	{# MAIN CONTENTS FOR VUE JS #}
+	<body>
+		<div id="vue-content"></div>
+	</body>
+
+</html>

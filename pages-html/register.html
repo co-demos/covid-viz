@@ -1,0 +1,62 @@
+
+{% extends "main.html" %}
+
+
+{% block content %}
+
+{# from : https://dansup.github.io/bulma-templates/ #}
+
+<section class="hero is-light skip-navbar">
+	
+	<div class="hero-body">
+		
+		<div class="container has-text-centered">
+			
+			<div class="column is-4 is-offset-4">
+				
+
+				{% include "elements/flash-messages.html"%}
+
+
+				<h3 class="title has-text-grey">S'enregistrer</h3>
+
+				<p class="subtitle has-text-grey">merci de remplir le formulaire</p>
+				
+				<div class="box">
+
+
+					{# 
+					<figure class="avatar">
+						<img src="https://placehold.it/128x128">
+					</figure> 
+					#}
+				
+
+					{% include "forms/form-register.html" %}
+
+
+				</div>
+
+
+
+
+
+				<p class="has-text-grey">
+					{# <a href="/register">créer un compte</a> &nbsp;·&nbsp;
+					<a href="/forgot-password">password oublié</a> &nbsp;·&nbsp; #}
+					{# <a href="/help" disabled>besoin d' aide ?</a> #}
+				</p>
+
+
+
+				<br>
+
+
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+{% endblock %}

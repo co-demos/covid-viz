@@ -1,0 +1,60 @@
+<style>
+  .checkbox{
+    margin: 0.2em auto;
+    padding: 0.1em;
+  }
+  .is-checkradio[type="radio"]:checked + label::before, .is-checkradio[type="radio"]:checked + label::before, .is-checkradio[type="checkbox"]:checked + label::before, .is-checkradio[type="checkbox"]:checked + label::before {
+    border: none;
+  }
+  .is-checkradio[type="checkbox"].is-block + label::before, .is-checkradio[type="checkbox"].is-block + label::before{
+    top: 0;
+    border: none;
+  }
+</style>
+
+<div id="qui-fait-quoi" class="grey-bg-plain">
+
+  <section class="container">
+
+    <div class="columns is-centered">
+      
+      <div class="column is-10">
+
+        <form>
+    
+          <br>
+    
+          <div class="search control has-icons-left">
+            <input type="search"
+              class="input is-large input-navbar" 
+              placeholder="Chercher un membre du collectif">
+            <span class="icon is-medium is-left">
+              <i class="fas fa-search fa-lg"></i>
+            </span>
+          </div>
+    
+          <br>
+    
+          <div class="activities">
+            <h2 class="title is-4">
+              Activités
+            </h2>
+          </div>
+    
+        </form>
+    
+        <!-- <br> -->
+    
+        <ul class="members">
+        </ul>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <br>
+  <br>
+  
+</div>

@@ -1,0 +1,1 @@
+- `/illustrations` : fichiers des illustrations/images (background ou foreground) au format .PNG, .JPG, .SVG
