@@ -29,6 +29,23 @@
     padding:5em 0 3em 0 ;
   }
 
+
+  .card-box {
+    transition: box-shadow .3s;    
+  }
+  .card-box:hover {
+    box-shadow: 0 0 15px rgba(33,33,33,.4);
+  }
+
+  .card-content {
+    transition: background-color .3s;    
+  }
+  .card-content:hover {
+    background-color: #EC1657;
+    color:white;
+  }
+
+
 </style>
 
 <main id="home">
@@ -56,16 +73,104 @@
         </div>
 
 
-        <h1 class="title is-1 has-text-centered">
+        <h1 class="title is-1 has-text-centered ">
           La France des makers 
           <br>
-          Entraide et auto-organisation pour répondre à la pandémie !        
+        </h1>
+        <h1 class="subtitle is-2 has-text-centered ">
+          Entraide et auto-organisation <br>pour répondre à la pandémie !        
         </h1>
 
         <br>
         <br>
 
-        <form action="/recherche" method="GET" class="columns">
+        <!-- MAIN BUTTONS -->
+        <div class="columns">
+
+          <div class="column is-half">
+            <div class="card-box card is-link is-link-b">
+              <a href="/diy">
+                <!-- <div class="card-image">
+                  <figure class="image is-5by3">
+                    <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-orgues-01.png" alt="Placeholder image">
+                  </figure>
+                </div> -->
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content has-text-centered">
+                        <button class="button is-rounded is-medium">
+                          <span class="icon is-medium">
+                            <i class="fas fa-cubes"></i>
+                          </span>
+                        </button>
+                    </div>
+                  </div>
+                  <div class="content has-text-centered has-text-white">
+                    <p class="title is-5 has-text-centered has-text-white">
+                      MATERIELS DIY
+                    </p>
+                    <br>
+                    Je cherche des plans 3D ou tutoriels 
+                    <br>
+                    partagé par la communauté des makers
+                    <br>
+                    pour fabriquer du matériel de santé de fortune
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+
+          <div class="column is-half">
+            <div class="card-box card is-link is-link-b">
+              <a href="/recherche">
+                <!-- <div class="card-image">
+                  <figure class="image is-5by3">
+                    <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-orgues-01.png" alt="Placeholder image">
+                  </figure>
+                </div> -->
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="subtitle is-6 has-text-centered">
+                        <button class="button is-rounded is-medium">
+                          <span class="icon is-medium">
+                            <i class="far fa-lightbulb"></i>
+                          </span>
+                          </button>
+                          
+                        </p>
+                        <p class="title is-5 has-text-centered has-text-white">
+                      </p>
+                    </div>
+                  </div>
+                  <div class="content has-text-centered has-text-white">
+                    <p class="title is-5 has-text-centered has-text-white">
+                      INITIATIVES
+                    </p>
+                    <br>
+                    Je cherche une initiative 
+                    <br>
+                    parmi toutes celles actuellement recensées
+                    <br>
+                    par la communauté
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+
+
+
+
+
+        </div>
+        
+        
+        
+        <!-- <form action="/recherche" method="GET" class="columns">
 
           <div class="column is-9">
 
@@ -100,12 +205,16 @@
 
           </div>
 
-        </form>
+        </form> -->
 
 
       </div>
     </div>
   </section>
+
+
+
+
 
   <section class="container">
 
