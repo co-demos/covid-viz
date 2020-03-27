@@ -1,0 +1,43 @@
+﻿Name,Description,Theme,Type,From,Country,Link,Github,Comments
+Low-cost & Open-Source Covid19 Detection kits,Developing and sharing open source methodologies to safely test for the presence of SARS-CoV-2 using multiple approaches.,Testing,Material,Civil society,Global,https://app.jogl.io/project/118,,"Just One Giant Lab (JOGL), organisme à but non lucratif situé à Paris, est un laboratoire de recherche et d’innovation ouvert "
+,,Health care capacity,,,,,,
+CHIME (The COVID-19 Hospital Impact Model for Epidemics),This tool was developed by the Predictive Healthcare team at Penn Medicine university.,Health care capacity,"Visualisation,Scientific article","University,Civil society",Global,https://penn-chime.phl.io/,https://github.com/pennsignals/chime,
+COVID-19: Forecasting short term hospital needs in France,"Article about Forecasting short term hospital needs in France
+",Health care capacity,Scientific article,University,France,https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf,,Researchers from the universities of Rennes and Rouen
+COVID-19 epidemic impact on healthcare resources,"R package to help interested researchers to estimate hospital resources required to treat patients infected by SARS-CoV-2.
+
+This project is partly supported by the SPHINx project, funded by French National Research Agency.",Health care capacity,Model,University,France,,https://github.com/PascalCrepey/HospiCoV,Researchers from the universities of Rennes and Rouen
+Nextrain,Visualize the genome and contamination evolution ,Genome,Visualisation,"Civil society,Institution",Global,https://nextstrain.org/ncov,,Nextstrain is an open source project aimed at exploiting the scientific and public health potential of pathogen genome data
+coronatracker.com,"CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
+It acts as a portal for the public to keep track of the latest news development about the COVID-19. ",Spread,"Visualisation,News article",Civil society,Global,https://www.coronatracker.com/,,
+Coronavirus-tracker-api,"An API for tracking development of the new coronavirus (COVID-19, SARS-CoV-2).",Spread,"API,Visualisation",Civil society,Global,https://expdev07.github.io/coronavirus-tracker/,https://github.com/ExpDev07/coronavirus-tracker-api,
+Covid-19-analysis,"This repo is for analysis on the corona virus / covid-19 that will extract the latest data and generate reports. 
+
+",Spread,"Visualisation,Report generation ",Civil society,Global,,https://github.com/AaronWard/covid-19-analysis,
+COVID-19 Coronavirus Map,"Allow to visualize the current situation and its evolution, including in France and by region.",Spread,"Visualisation,Dashboard",Civil society,Global,https://covid19.health/,https://github.com/stevenliuyi/covid19,
+CoronaTracker,"
+Coronavirus tracker app for iOS & macOS with maps & charts",Spread,Visualisation,Civil society,Global,https://coronatracker.samabox.com/,https://github.com/MhdHejazi/CoronaTracker,
+Coronavirus tracker,A live tracker and visualization of the coronavirus (2019-nCoV),Spread,Visualisation,Civil society,Global,https://expdev07.github.io/coronavirus-tracker/,https://github.com/ExpDev07/coronavirus-tracker,
+Coronavirus tracker,Dashboard and API to track the spread of the coronavirus,Spread,"Visualisation,API",Civil society,Global,https://coronavirus.john-coene.com/,https://github.com/JohnCoene/coronavirus,
+CoronaSEIR,SEIR model Python script for the COVID-19 pandemic with real world data comparison.,Spread,Other,Civil society,Global,,https://github.com/coronafighter/coronaSEIR,
+Data against covid19,Dashbor for the world but also French region and department. ,Spread,Dashboard,Civil society,France,https://app.powerbi.com/view?r=eyJrIjoiMTUzZGJiZTktMjE4MC00YjM4LWEzYmItMzIwOWY1YjhiOGYxIiwidCI6ImQwYjE3MTZmLWQ5NDEtNGNjMy1iNWY5LWU0MmViMzdmZDgwYiIsImMiOjh9,https://github.com/opencovid19-fr/data,
+Quarantine Now,Blog article showcasing the impact of quarantine measures.,"Spread,Restriction measures",News article,Civil society,Global,https://observablehq.com/@yurivish/quarantine-now,,
+COVID 19 Mindmap,"Mind Map about the differents sources, relevant articles and guidelines on COVID19.",Knowledge management,Other,Civil society,France,https://www.mindmeister.com/fr/1428695721/covid-19?fullscreen=1,,
+Covid-chestxray-dataset,"A database of COVID-19 cases with chest X-ray or CT images.
+
+",Health ,IA,"Civil society,University",Global,,https://github.com/ieee8023/covid-chestxray-dataset,
+OpenRespirator,"Open source hardware project to allow makers and the public to assemble mechanical respirators (aka. ""Ventilators"", ""breathing machines"") and/or intubation kits that could be used by medical professionals.",Health ,Material,Civil society,Global,,https://github.com/brentjackson/OpenRespirator,
+Pandemic Ventilator Project,A blog documents that offers a ventilator design for use in a Flu Pandemic that can be made from readily available materials at the last minute.,Health ,blog,Civil society,Global,https://panvent.blogspot.com/,,
+Real-time estimation of the novel coronavirus incubation time,Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools.,Health ,Model,Civil society,Global,https://github.com/HopkinsIDD/ncov_incubation,,
+pharmhelp,Website to facilitate mutual aid between pharmacist,Health ,Cooperation,Civil society,France,https://www.pharmhelp.anepf.org/,,
+Korean Public Mask Sales Information,Provision of public mask sales information via an API,Health ,API,Institution,Korea,https://www.data.go.kr/dataset/15043025/openapi.do?lang=en,,
+COVID-19 Scenarios,"This web application serves as a planning tool for COVID-19 outbreaks in communities across the world. It implements a simple SIR (Susceptible-Infected-Recovered) model with additional categories for individuals exposed to the virus that are not yet infectious, severely sick people in need of hospitalization, people in critical condition, and a fatal category.","Impacts,Health ",Visualisation,"Civil society,University",Global,https://neherlab.org/covid19/,https://github.com/neherlab/covid19_scenarios,
+Are we in lock down ?,Plateform shocasing the restriction measures in every country. ,Restriction measures,Other,Civil society,Global,https://areweinlockdown.com/,,
+Corona cases bot,Coronavirus disease 2019 (COVID-19) information on Telegram Messenger ,Information,Other,Civil society,Global,@corona_cases_bot on Telegram,https://github.com/Bost/corona_cases/blob/master/README.md,
+Awesome Coronavirus,Repo gathering various initiative,Information,Cooperation,Civil society,Global,,https://github.com/soroushchehresa/awesome-coronavirus,
+Open-Source-COVID-19,Repo gathering various open sources project.,Information,Cooperation,Civil society,Global,https://weileizeng.github.io/Open-Source-COVID-19/world,https://github.com/WeileiZeng/Open-Source-COVID-19,
+SMS update in New York,"Over 20,000 New Yorkers have signed up for COVID, the City’s text notification system.",Information,Other,Institution,US,https://www1.nyc.gov/office-of-the-mayor/news/128-20/mayor-de-blasio-new-yorkers-city-s-covid-19-response,,
+stayinghomeclub,A list of all the companies WFH or events changed because of covid-19,Economy,Other,Civil society,"Global,US",https://stayinghome.club/,https://github.com/phildini/stayinghomeclub,
+COVID-19 Slack / Discord / Telegram workspaces (+ hackathons) ,List of various remote workspaces.,Other,Cooperation,Civil society,Global,https://bit.ly/3bizew3,,
+Hacklacrise,Hackathon in France,Other,Evenement,Civil society,"France,Global",https://www.hacklacrise.fr/,,
+WirVsVirus,Hackathon in Germany,Other,Evenement,"Civil society,Institution","Germany,Global",https://wirvsvirushackathon.org/,,
