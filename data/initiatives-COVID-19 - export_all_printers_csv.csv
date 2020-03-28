@@ -1,5 +1,5 @@
 titre_initiative,resume_initiative,tag_besoin_niv1_code,tag_besoin_niv2_code,tag_produit_niv1_code,tag_produit_niv2_code,tag_structure_niv1_code,nom_structure,url_initiative,contact_mail,contact_tel,materiel_utilise,machine_utilisee,capacite_production,version,adresse,code_postal,ville,pays,url_illustration,commentaires,source,est_actif,langue,auteur_data,validation,notes_validation,a_publier,date_maj
-Ain'pression 3D,5 machines FDM  + matieres prrmère PLA   PETG   ABS   TPU,SANTE,PROTECTION,DIY,-,ENTREPRISE,,https://www.ainpression3d.com/,ainpression3,0601795551,FDM,5 machines FDM  + matieres prrmère PLA   PETG   ABS   TPU,,,,,Belmont,France,,5 machines FDM  + matieres prrmère PLA   PETG   ABS   TPU,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Ain'pression 3D,5 machines FDM  + matieres prrmère PLA   PETG   ABS   TPU,SANTE,PROTECTION,DIY,-,ENTREPRISE,,https://www.ainpression3d.com/,ainpression3d@gmail.com,0601795551,FDM,5 machines FDM  + matieres prrmère PLA   PETG   ABS   TPU,,,,,Belmont,France,,5 machines FDM  + matieres prrmère PLA   PETG   ABS   TPU,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 IPC,"FDM :
 1 Blackbelt
 1 Stacker S4XL
@@ -10,7 +10,7 @@ SLA :
 1 Formlabs Form 2
 SLM :
 EOS M270
-EOS M290",NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,pages/a-propos-de/,julien.bajolet@ct-ipc.com,0626608286,FDM  SLA  SLM,"FDM :
+EOS M290",NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,https://ct-ipc.com/,julien.bajolet@ct-ipc.com,0626608286,FDM  SLA  SLM,"FDM :
 1 Blackbelt
 1 Stacker S4XL
 1 Markforged
@@ -50,7 +50,7 @@ ICPS,"2 FDM 300X200X300mm
 1 SLS PA12
 1 unité de coulée sous vide",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 LILYLEARN,8 imprimantes 3D Ultimaker 2+ (223 x 223 x 305 mm),NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,https://lilylearn.com,contact@lilylearn.fr,0660202792,FDM,8 imprimantes 3D Ultimaker 2+ (223 x 223 x 305 mm),,,,,CAEN,France,,8 imprimantes 3D Ultimaker 2+ (223 x 223 x 305 mm),https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-3D&G,,NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,,contact@3d-g.fr,,,,,,,,Caen,France,,,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+3D&G,,NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,https://www.3d-g.fr/,contact@3d-g.fr,,,,,,,,Caen,France,,,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 W6 design,4 fdm + 1 formlabs + cnc 2500x1200 + 3d design ,NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,www.w6design.com,sergevi@w6developpement.com,0647908439,fdm / dlp,4 fdm + 1 formlabs + cnc 2500x1200 + 3d design ,,,,,Aurillac,France,,4 fdm + 1 formlabs + cnc 2500x1200 + 3d design ,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 FORMES ET VOLUMES,2 SLA FORMLABS 2 et 3 ; 1 FDM Ultimaker 3Extended  centres d'usinage 3 et 5 axes non métalique,NUMERIQUE,PROTECTION,DIY,,ENTREPRISE,,http://www.formes-et-volumes.fr/,maxime.bories@formes-et-volumes.fr,0658727490,SLA et FDM,2 SLA FORMLABS 2 et 3 ; 1 FDM Ultimaker 3Extended  centres d'usinage 3 et 5 axes non métalique,,,,,LA ROCHELLE,France,,2 SLA FORMLABS 2 et 3 ; 1 FDM Ultimaker 3Extended  centres d'usinage 3 et 5 axes non métalique,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 CESI Ecole d'Ingénieurs,"3 x Ultimaker 2+
@@ -110,6 +110,7 @@ Ermoval,"1 RAISE 3D N2
 1 MAKFORGED",NUMERIQUE,,DIY,,ENTREPRISE,,www.ermoval.com,sebastien.cazenave@ermoval.com,0613611076,FDM,"1 RAISE 3D N2
 1 MAKFORGED",,,,,Valence,France,,"1 RAISE 3D N2
 1 MAKFORGED",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Fram3D SAS,Raise 3D x11 N1/N2/N2+/Pro2 + 1 Formlabs Form2,NUMERIQUE,,DIY,,ENTREPRISE,,www.fram3d.fr,contact@fram3d.fr,0685391814,FDM / SLA,Raise 3D x11 N1/N2/N2+/Pro2 + 1 Formlabs Form2,,,,,Montélimar,France,,Raise 3D x11 N1/N2/N2+/Pro2 + 1 Formlabs Form2,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 DEDIENNE MULTIPLASTURGY GROUP,"2 stations de production en séries :
 HP 4200 (PA11) et EOS P 810 (PEKK)",NUMERIQUE,,DIY,,ENTREPRISE,,www.dedienne.com,f.larrouy@dedienne.com,0634112684,MJF  SLS,"2 stations de production en séries :
 HP 4200 (PA11) et EOS P 810 (PEKK)",,,,,Vernon,France,,"2 stations de production en séries :
@@ -208,6 +209,7 @@ Machines :
 Spécial :
 1 x Salle blanche ISO7 nettoyage/conditionnement de dispositifs médicaux",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 IMT Atlantique,Une dizaine d'imprimantes Ultimaker (2  2+ extended  3...),NUMERIQUE,,DIY,,ENTREPRISE,,https://www.imt-atlantique.fr/fr,baptiste.gaultier@imt.fr,0673247718,FDM,Une dizaine d'imprimantes Ultimaker (2  2+ extended  3...),,,,,Rennes,France,,Une dizaine d'imprimantes Ultimaker (2  2+ extended  3...),https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Réseau des FabLabs Roche aux Fées Communauté,8 Ultimaker 2+  1 Ultimaker S5  1 Formlabs Form2  1 Markforged Onyx One,NUMERIQUE,,DIY,,ENTREPRISE,,www.lafabrique-rocheauxfees.fr,fablab@ccprf.fr,0784001571,FDM / SLA,8 Ultimaker 2+  1 Ultimaker S5  1 Formlabs Form2  1 Markforged Onyx One,,,,,Janzé/Amanlis,France,,8 Ultimaker 2+  1 Ultimaker S5  1 Formlabs Form2  1 Markforged Onyx One,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 3D Model Concept,"Stratasys Uprint SE plus 203x203x152
 Makerbot replicator 2X
 SCANNER 3D
@@ -223,6 +225,7 @@ Chabloz Orthopédie,1 Imprimante HP MJF 4200 avec PA12,NUMERIQUE,,DIY,,ENTREPRIS
 SAIKU,3 Ultimaker 2+ 1 3DP Workbench + 1 Ender 3,NUMERIQUE,,DIY,,ENTREPRISE,,www.saiku.fr,contact@saiku.fr,0629632664,FDM,3 Ultimaker 2+ 1 3DP Workbench + 1 Ender 3,,,,,Crolles,France,,3 Ultimaker 2+ 1 3DP Workbench + 1 Ender 3,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Audrey Roudaut,1 ultimaker 2+ 1 anycubic 4maxpro,NUMERIQUE,,DIY,,ENTREPRISE,,,chevallier_fr_2000@yahoo.fr,0664749554,FDM,1 ultimaker 2+ 1 anycubic 4maxpro,,,,,Tullins,France,,1 ultimaker 2+ 1 anycubic 4maxpro,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Collège F.léger,1 UP BOX+   1UPMini    Modélisation 3D,NUMERIQUE,,DIY,,ENTREPRISE,,,clement.brugère@ac-grenoble.fr,695615066,,1 UP BOX+   1UPMini    Modélisation 3D,,,,,St martin d'hères,France,,1 UP BOX+   1UPMini    Modélisation 3D,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+INTERACSCIENCES,2 imprimantes Prusa MK3s (option multimatréiaux),NUMERIQUE,,DIY,,ENTREPRISE,,www.interacsciences.fr,aguila.alexandre@gmail.col,0674492686,FDM,2 imprimantes Prusa MK3s (option multimatréiaux),,,,,Grenoble,France,,2 imprimantes Prusa MK3s (option multimatréiaux),https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 L'Établi - Fab Lab,1 Zortrax 200 M- 1 Ultimaker S5 - 1 Dagoma DiscoEasy ,NUMERIQUE,,DIY,,ENTREPRISE,,https://letabli.net/,fernand@letabli.net,0637202153,FDM,1 Zortrax 200 M- 1 Ultimaker S5 - 1 Dagoma DiscoEasy ,,,,,Soustons,France,,1 Zortrax 200 M- 1 Ultimaker S5 - 1 Dagoma DiscoEasy ,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 ECO CONCEPT 3D,2 FDM + 1 SLA,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.ecoconcept3d.com,contact@ecoconcept3d.com,0616413783,FDM et SLA,2 FDM + 1 SLA,,,,,La Grand Croix,France,,2 FDM + 1 SLA,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 ENISE,"Fabrication Additive Métal
@@ -259,6 +262,8 @@ Fabrication Additive Polymère
 avec à disposition immédiate PLA et ABS
 ",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 THALES ANGENIEUX,FABLAB avec 3 FDM et 2 SLA,NUMERIQUE,,DIY,,ENTREPRISE,,www.thales.com,,0688085593,FDM et SLA,FABLAB avec 3 FDM et 2 SLA,,,,,Saint Heand ,France,,FABLAB avec 3 FDM et 2 SLA,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Ecole des Mines de Saint-Etienne,2 imprimanes FDM Volumic STREAM 20 et Stream 30,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.mines-stetienne.fr/,hubert.taxil@emse.fr,,FDM,2 imprimanes FDM Volumic STREAM 20 et Stream 30,,,,,Saint-Etienne,France,,2 imprimanes FDM Volumic STREAM 20 et Stream 30,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Make It Engineering,Raise3D pro 2 +,NUMERIQUE,,DIY,,ENTREPRISE,,www.make-it-engineering.com,fabien.jouve@make-it-engineering.com,0695313155,FDM,Raise3D pro 2 +,,,,,Boisset st priest,France,,Raise3D pro 2 +,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 L'I.F4.0 reprint the world,2 imprimante fdm 200x200 plus une imprimante fdm 200x200 modifier pour le pehd ,NUMERIQUE,,DIY,,ENTREPRISE,,,phender.43@gmail.com,0675250223,FDM,2 imprimante fdm 200x200 plus une imprimante fdm 200x200 modifier pour le pehd ,,,,,Couteuges,France,,2 imprimante fdm 200x200 plus une imprimante fdm 200x200 modifier pour le pehd ,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 3D NEW PRINT,"1 markforged Metal 1 markforged X7 1 Markforged mark2 1 intamsys 1 volumic 1 envisiontec
 ",NUMERIQUE,,DIY,,ENTREPRISE,,,christophe.desarthe@3dnewprint.com0670209297,,,"1 markforged Metal 1 markforged X7 1 Markforged mark2 1 intamsys 1 volumic 1 envisiontec
@@ -494,6 +499,8 @@ Capacité de décolletage de 6 à 45 mm",NUMERIQUE,,DIY,,ENTREPRISE,,https://www
 Acier - laiton - inox","1 imprimante 3D FDM - Volumic
 Capacité de décolletage de 6 à 45 mm",,,,,MARNAZ,France,,"1 imprimante 3D FDM - Volumic
 Capacité de décolletage de 6 à 45 mm",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Particulier GROISY 74,ALFAWISE U20 (FDM) + LICENCE SolidWorks,NUMERIQUE,,DIY,,ENTREPRISE,,,antoine@lbrn.fr,0033643262391,FDM,ALFAWISE U20 (FDM) + LICENCE SolidWorks,,,,,Groisy,France,,ALFAWISE U20 (FDM) + LICENCE SolidWorks,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Savoy International ,1 HP printer multijet fusion | 1 LUMEX 25 printer metal and aluminum  | 1 LUMEX 60 printer metal and aluminum,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.savoy-international.com/,drey@savoy-moulage.fr,06 78 29 54 66‬,,1 HP printer multijet fusion | 1 LUMEX 25 printer metal and aluminum  | 1 LUMEX 60 printer metal and aluminum,,,,,Cluses,France,,1 HP printer multijet fusion | 1 LUMEX 25 printer metal and aluminum  | 1 LUMEX 60 printer metal and aluminum,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 3D Fabbtory,1Ultimaker 2 extended,NUMERIQUE,,DIY,,ENTREPRISE,,Fabbtory.com,arado75@gmail.com,0652510158,FDM,1Ultimaker 2 extended,,,,,Paris,France,,1Ultimaker 2 extended,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Bone3D,,NUMERIQUE,,DIY,,ENTREPRISE,,https://bone3d.com/, jeremy.adam@bone3d.com,,,,,,,,Paris,France,,,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 HP France (Digital Manufacturing Network),,NUMERIQUE,,DIY,,ENTREPRISE,,https://app.smartsheet.com/b/form/0f85fb04e2d44f09a799ba9475fd5d0a,nicolas.aubert@hp.com,,,,,,,,Paris,France,,,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
@@ -504,7 +511,7 @@ OKONI,"1 Formlabs form 3
 Partage3D.fr,120 imprimantes 3d FDM avec autant d'opérateurs competents,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.partage3d.fr/,contact@partage3d.fr,0662901167,Fd,120 imprimantes 3d FDM avec autant d'opérateurs competents,,,,,Paris ,France,,120 imprimantes 3d FDM avec autant d'opérateurs competents,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Spare Parts 3D,,NUMERIQUE,,DIY,,ENTREPRISE,,Https://spare-parts-3d.com,dmartinez@bcn3d.com,0786909205,FDM  SLS  SLA  MJF  Vacuum Casting  SLM,,,,,,Paris,France,,,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 ESPCI,2 stratasys fortus 250mc et 2 ultimaker 3,NUMERIQUE,,DIY,,ENTREPRISE,,www.espci.fr,ludovic.olanier@gmail.com,0648005682,FDM,2 stratasys fortus 250mc et 2 ultimaker 3,,,,,Paris,France,,2 stratasys fortus 250mc et 2 ultimaker 3,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-Volumes / Wasp Hub Paris,2 Wasp Delta 2040  1 Wasp Delta 4070,NUMERIQUE,,DIY,,ENTREPRISE,,volumesparis.org,michael@volumesparis.org,0624441151,FDM,2 Wasp Delta 2040  1 Wasp Delta 4070,,,,,Paris,France,,2 Wasp Delta 2040  1 Wasp Delta 4070,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Volumes / Wasp Hub Paris,2 Wasp Delta 2040  1 Wasp Delta 4070  1 Ultimaker 2+,NUMERIQUE,,DIY,,ENTREPRISE,,volumesparis.org,makerspace@volumesparis.org,0624441151,FDM,2 Wasp Delta 2040  1 Wasp Delta 4070  1 Ultimaker 2+,,,,,Paris,France,,2 Wasp Delta 2040  1 Wasp Delta 4070  1 Ultimaker 2+,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Cat3dprint,Creator hs PLA uniquement. Résine photocentric photon dlp,NUMERIQUE,,DIY,,ENTREPRISE,,Http://cat3dprint.com,Contact@cat3dprint.com,0616549307,FDM  DLP,Creator hs PLA uniquement. Résine photocentric photon dlp,,,,,Paris 19,France,,Creator hs PLA uniquement. Résine photocentric photon dlp,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Institut Pierre-Gilles de Gennes pour la microfluidique,Formlabs FORM 2.,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.plateformeipgg.fr/,plateforme-ipgg@psl.eu,0625784201,SLA,Formlabs FORM 2.,,,,,Paris,France,,Formlabs FORM 2.,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Bits to Parts Fabrication numérique,Modélisation3d/conception  1 Ultimaker 3,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.bits-to-parts.com/,info@bits-to-parts.com,0695228757,FDM,Modélisation3d/conception  1 Ultimaker 3,,,,,Paris,France,,Modélisation3d/conception  1 Ultimaker 3,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
@@ -566,6 +573,7 @@ PROX SLS 6100 chargé en DuraForm PROX HST – 381 x 330 x 460 mm ainsi que nos 
 DMP PROX 320 équipé en Titane Grade 23 ELI Médical – volume de fabrication 250 x 250 x 300 mm
 PROX SLS 6100 chargé en DuraForm PROX HST – 381 x 330 x 460 mm ainsi que nos compétences en modélisation en fabrication additive
 ",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Moebius Factory,9 imprimantes FDM + 1 Formalbs 2  découpe laser  moulage par injection (18cm3 max)  rotomoulage  découpe/surfaçage CNC  Modélisation 3D,NUMERIQUE,,DIY,,ENTREPRISE,,www.moebius-factory.com,contact@moebius-factory.com,0618998509,FDM/SLA,9 imprimantes FDM + 1 Formalbs 2  découpe laser  moulage par injection (18cm3 max)  rotomoulage  découpe/surfaçage CNC  Modélisation 3D,,,,,Vaux le Pénil,France,,9 imprimantes FDM + 1 Formalbs 2  découpe laser  moulage par injection (18cm3 max)  rotomoulage  découpe/surfaçage CNC  Modélisation 3D,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 CRP Technocentre Renault,"o        2 Fortus 450 – FDM ASA
 o        1 Fortus 900 – FDM ABS
 o        1 SPRO 140 SLS PA 11
@@ -643,6 +651,7 @@ BOIS SUR MESURE PONDELEK,"1 Markforged Mark Two (Gen 2)
 1 Witbox 2",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 L'OREAL ,30 FdM + Carbon,NUMERIQUE,,DIY,,ENTREPRISE,,Www.loreal.com,,06 17 03 26 41,FDM  dlp,30 FdM + Carbon,,,,,Clichy,France,,30 FdM + Carbon,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 3D Hubs,,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.3dhubs.com/fr/covid-19-fond/,covid@3dhubs.com,,,,,,,,Paris,France,,,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+3DKFactory,10 Ultimaker 2+,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.3dkfactory.com/,contact@3dkfactory.com,01 85 41 15 02,FDM,10 Ultimaker 2+,,,,,Antony,France,,10 Ultimaker 2+,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Atelier 20 point 12,15 imprimantes 3D,NUMERIQUE,,DIY,,ENTREPRISE,,http://www.20point12.com/atelier20point12,patrick@20point12.com,0611559712,,15 imprimantes 3D,,,,,Montreuil,France,,15 imprimantes 3D,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 DOOD,6 DOM PRO / 2 Dood s  (220x180x200),NUMERIQUE,,DIY,,ENTREPRISE,,www.dood-studio.com,Info@dood-studio.com,0786512548,FDM,6 DOM PRO / 2 Dood s  (220x180x200),,,,,La Courneuve,France,,6 DOM PRO / 2 Dood s  (220x180x200),https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 La Biche-Renard,4 FDM,NUMERIQUE,,DIY,,ENTREPRISE,,https://labiche-renard.com/,arthur@labiche-renard.fr,0666053493,FDM,4 FDM,,,,,Montreuil,France,,4 FDM,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
@@ -653,6 +662,12 @@ Air France Industries,1x ultimaker S5  1x Zortrax M200  1x Zortrax M300  1x Zort
 Erpro Group,9 x P396  1 x P770  1 x P110  1 x P730  3 x PRO X 950  4 x IPRO 8000  2 x Carbon  5 x FDM  5 x Formlab  6 x SLM  1 x HP 4200  1 x HP 5200  1 Polyjet,NUMERIQUE,,DIY,,ENTREPRISE,,https://erpro-group.com/,contact@erpro-group.com,,SLA  SLM  FDM  MFJ  SLS  CLIP,9 x P396  1 x P770  1 x P110  1 x P730  3 x PRO X 950  4 x IPRO 8000  2 x Carbon  5 x FDM  5 x Formlab  6 x SLM  1 x HP 4200  1 x HP 5200  1 Polyjet,,,,,Val d'Oise,France,,9 x P396  1 x P770  1 x P110  1 x P730  3 x PRO X 950  4 x IPRO 8000  2 x Carbon  5 x FDM  5 x Formlab  6 x SLM  1 x HP 4200  1 x HP 5200  1 Polyjet,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 POY3D,6 imprimantes FDM (RAISE N2 Pro 2 / Zortrax M200/ Ender 3 Pro...1 SLA / 1 Einscan SP,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.facebook.com/Matrix3DMartinique/,poy3d972@orange.fr,0696 07 38 38,FDM / SLA,6 imprimantes FDM (RAISE N2 Pro 2 / Zortrax M200/ Ender 3 Pro...1 SLA / 1 Einscan SP,,,,,Martinique,France,,6 imprimantes FDM (RAISE N2 Pro 2 / Zortrax M200/ Ender 3 Pro...1 SLA / 1 Einscan SP,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Delta Equipement / Delta 3D Print,5 x 3DP Platform 1000x500x700  2 x HYREL 400x300x250  5 x SINDOH 210x200x195  3 + 5 x 3D GENCE 260x300x340 + 235x255x195  2x HAGE  400x600x350 + 700x500x400  1 x Dynamical tools 600x450x400  1 x VOLUMIC 200x295x300 et 2 x MiniFactory 330x180x180 haute température,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.delta-3dprint.fr/,ydaunas@delta-equipement.fr,0687864910,FDM-Polymères:PLA PLAN ABS ASA PETG HIPS PP PE et tous les ultrapolymères: PPSU  PEKK  ULTEM  PEEK plus silicone et spécifiques.,5 x 3DP Platform 1000x500x700  2 x HYREL 400x300x250  5 x SINDOH 210x200x195  3 + 5 x 3D GENCE 260x300x340 + 235x255x195  2x HAGE  400x600x350 + 700x500x400  1 x Dynamical tools 600x450x400  1 x VOLUMIC 200x295x300 et 2 x MiniFactory 330x180x180 haute température,,,,,Paris - Orléans,France,,5 x 3DP Platform 1000x500x700  2 x HYREL 400x300x250  5 x SINDOH 210x200x195  3 + 5 x 3D GENCE 260x300x340 + 235x255x195  2x HAGE  400x600x350 + 700x500x400  1 x Dynamical tools 600x450x400  1 x VOLUMIC 200x295x300 et 2 x MiniFactory 330x180x180 haute température,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Bombyx Prod,"4 machines multitêtes - 600 x 400 x 500mm
+1x Witbox2  1xRep2  1xUdelta  1xUM2",NUMERIQUE,,DIY,,ENTREPRISE,,www.bombyxprod.com,info@bombyxprod.com,06 89 86 95 65 ,FDM,"4 machines multitêtes - 600 x 400 x 500mm
+1x Witbox2  1xRep2  1xUdelta  1xUM2",,,,,Villemeux ,France,,"4 machines multitêtes - 600 x 400 x 500mm
+1x Witbox2  1xRep2  1xUdelta  1xUM2",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+FABULOUS sarl,2 P1000 prodways,NUMERIQUE,,DIY,,ENTREPRISE,,http://www.fabulous.com.co/,arnault@fabulous.com.co,0676794474,SLS,2 P1000 prodways,,,,,Lyon ,France,,2 P1000 prodways,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+FABULOUS sarl,2 P1000 prodways,NUMERIQUE,,DIY,,ENTREPRISE,,http://www.fabulous.com.co/,arnault@fabulous.com.co,0676794474,SLS,2 P1000 prodways,,,,,Paris,France,,2 P1000 prodways,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 SLICE3D,"3 Zortrax M200 Plus
 2 CR10S5
 2 Witbox2
@@ -684,12 +699,6 @@ SLICE3D,"3 Zortrax M200 Plus
 1 Uniz3D Slash+
 1 Form2
 1 Modix3D 120x",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-Bombyx Prod,"4 machines multitêtes - 600 x 400 x 500mm
-1x Witbox2  1xRep2  1xUdelta  1xUM2",NUMERIQUE,,DIY,,ENTREPRISE,,www.bombyxprod.com,info@bombyxprod.com,06 89 86 95 65 ,FDM,"4 machines multitêtes - 600 x 400 x 500mm
-1x Witbox2  1xRep2  1xUdelta  1xUM2",,,,,Villemeux ,France,,"4 machines multitêtes - 600 x 400 x 500mm
-1x Witbox2  1xRep2  1xUdelta  1xUM2",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-FABULOUS sarl,2 P1000 prodways,NUMERIQUE,,DIY,,ENTREPRISE,,http://www.fabulous.com.co/,arnault@fabulous.com.co,0676794474,SLS,2 P1000 prodways,,,,,Lyon ,France,,2 P1000 prodways,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-FABULOUS sarl,2 P1000 prodways,NUMERIQUE,,DIY,,ENTREPRISE,,http://www.fabulous.com.co/,arnault@fabulous.com.co,0676794474,SLS,2 P1000 prodways,,,,,Paris,France,,2 P1000 prodways,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 MultiServices&Dépannages-3D,2 x Alfawise U20,NUMERIQUE,,DIY,,ENTREPRISE,,,MSD3D@hotmail.com,32497423284,FDM,2 x Alfawise U20,,,,,Tournai,France,,2 x Alfawise U20,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
 Solvay,"- 1 Ultimaker 3
 - 1 Ultimaker 5S
@@ -700,30 +709,27 @@ Solvay,"- 1 Ultimaker 3
 - 1 Minifactory 330x180x180 haute température",,,,,Bruxelles,France,,"- 1 Ultimaker 3
 - 1 Ultimaker 5S
 - 1 Hyrel 400x600x350
-- 1 Minifactory 330x180x180 haute température",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-BCN3D,63 machines imprimantes FFF SIGMA / SIGMAX et BCN3D EPSILON,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.bcn3d.com/bcn3d-farm-3d-printing-projects-against-covid-19/,dmartinez@bcn3d.com,0034934137088,FDM/FFF,63 machines imprimantes FFF SIGMA / SIGMAX et BCN3D EPSILON,,,,,Barcelone ,France,,63 machines imprimantes FFF SIGMA / SIGMAX et BCN3D EPSILON,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-Réseau Imprimeurs 3d Volontaires,Resencement de particuliers & PME disponibles machines + compétences + matière première. A ce jour 267 membre 500+ machines 8000Kg+ de matière,NUMERIQUE,,DIY,,ENTREPRISE,,https://framaforms.org/inscription-reseau-dimprimeurs-3d-volontaires-1584449061,ri3dv.fr@gmail.com,0676172761,FDM++  SLA,Resencement de particuliers & PME disponibles machines + compétences + matière première. A ce jour 267 membre 500+ machines 8000Kg+ de matière,,,,,France,France,,Resencement de particuliers & PME disponibles machines + compétences + matière première. A ce jour 267 membre 500+ machines 8000Kg+ de matière,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+- 1 Minifactory 330x180x180 haute température",,,,JPy,,,NON,
+BCN3D,63 machines imprimantes FFF SIGMA / SIGMAX et BCN3D EPSILON,,,,,,,https://www.bcn3d.com/bcn3d-farm-3d-printing-projects-against-covid-19/,dmartinez@bcn3d.com,0034934137088,FDM/FFF,63 machines imprimantes FFF SIGMA / SIGMAX et BCN3D EPSILON,,,,,Barcelone ,,,63 machines imprimantes FFF SIGMA / SIGMAX et BCN3D EPSILON,,,,,,,,
+Réseau Imprimeurs 3d Volontaires,Resencement de particuliers & PME disponibles machines + compétences + matière première. A ce jour 267 membre 500+ machines 8000Kg+ de matière,,,,,,,https://framaforms.org/inscription-reseau-dimprimeurs-3d-volontaires-1584449061,ri3dv.fr@gmail.com,0676172761,FDM++  SLA,Resencement de particuliers & PME disponibles machines + compétences + matière première. A ce jour 267 membre 500+ machines 8000Kg+ de matière,,,,,France,,,Resencement de particuliers & PME disponibles machines + compétences + matière première. A ce jour 267 membre 500+ machines 8000Kg+ de matière,,,,,,,,
 Réseau Add Lab Usine Renault France,"Ultimaker 3 => 25
 Ultimaker S5 => 15
 Raise 3D => 3
-",NUMERIQUE,,DIY,,ENTREPRISE,,https://group.renault.com/,dimitri.rodrigues-paulino@renault.com,0610360319,FDM,"Ultimaker 3 => 25
+",,,,,,,https://group.renault.com/,dimitri.rodrigues-paulino@renault.com,0610360319,FDM,"Ultimaker 3 => 25
 Ultimaker S5 => 15
 Raise 3D => 3
-",,,,,,France,,"Ultimaker 3 => 25
+",,,,,,,,"Ultimaker 3 => 25
 Ultimaker S5 => 15
 Raise 3D => 3
-",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+",,,,,,,,
 Cartier Horlogerie,"Conception + Fabrication Mécanique (usinage  rectif  assemblage)
 Stratasys J750 1x (MJP)
 Stratasys Connex 350 1x (MJP)
-Envisiontec Perfactoy 4 std XL erm 1x (DLP)",NUMERIQUE,,DIY,,ENTREPRISE,,,yann.guillemot@cartier.com,41798192620,MJP / DLP,"Conception + Fabrication Mécanique (usinage  rectif  assemblage)
+Envisiontec Perfactoy 4 std XL erm 1x (DLP)",,,,,,,,yann.guillemot@cartier.com,41798192620,MJP / DLP,"Conception + Fabrication Mécanique (usinage  rectif  assemblage)
 Stratasys J750 1x (MJP)
 Stratasys Connex 350 1x (MJP)
-Envisiontec Perfactoy 4 std XL erm 1x (DLP)",,,,,La Chaux de Fonds,France,,"Conception + Fabrication Mécanique (usinage  rectif  assemblage)
+Envisiontec Perfactoy 4 std XL erm 1x (DLP)",,,,,La Chaux de Fonds,,,"Conception + Fabrication Mécanique (usinage  rectif  assemblage)
 Stratasys J750 1x (MJP)
 Stratasys Connex 350 1x (MJP)
-Envisiontec Perfactoy 4 std XL erm 1x (DLP)",https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-3D Forge,Ultimaker S5  CR-10S Pro  Wanahoo Duplicator 8,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.3dforge.ch,info@3dforge.ch,,FDM  DLP,Ultimaker S5  CR-10S Pro  Wanahoo Duplicator 8,,,,,Nyon ,France,,Ultimaker S5  CR-10S Pro  Wanahoo Duplicator 8,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-Particulier GROISY 74,ALFAWISE U20 (FDM) + LICENCE SolidWorks,NUMERIQUE,,DIY,,ENTREPRISE,,,antoine@lbrn.fr,0033643262391,FDM,ALFAWISE U20 (FDM) + LICENCE SolidWorks,,,,,Groisy,France,,ALFAWISE U20 (FDM) + LICENCE SolidWorks,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-3DKFactory,10 Ultimaker 2+,NUMERIQUE,,DIY,,ENTREPRISE,,https://www.3dkfactory.com/,contact@3dkfactory.com,01 85 41 15 02,FDM,10 Ultimaker 2+,,,,,Antony,France,,10 Ultimaker 2+,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
-Fram3D SAS,Raise 3D x11 N1/N2/N2+/Pro2 + 1 Formlabs Form2,NUMERIQUE,,DIY,,ENTREPRISE,,www.fram3d.fr,contact@fram3d.fr,0685391814,FDM / SLA,Raise 3D x11 N1/N2/N2+/Pro2 + 1 Formlabs Form2,,,,,Montélimar,France,,Raise 3D x11 N1/N2/N2+/Pro2 + 1 Formlabs Form2,https://docs.google.com/spreadsheets/d/1AuFOZjWxkcBIKoZVbi31pURp7h0B0VY9O9Rmct-_KU4/edit?usp=sharing,,,JPy,,,NON,28/03/2020
+Envisiontec Perfactoy 4 std XL erm 1x (DLP)",,,,,,,,
+3D Forge,Ultimaker S5  CR-10S Pro  Wanahoo Duplicator 8,,,,,,,https://www.3dforge.ch,info@3dforge.ch,,FDM  DLP,Ultimaker S5  CR-10S Pro  Wanahoo Duplicator 8,,,,,Nyon ,,,Ultimaker S5  CR-10S Pro  Wanahoo Duplicator 8,,,,,,,,
