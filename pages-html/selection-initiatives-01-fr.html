@@ -6,6 +6,10 @@
   .card-box:hover {
     box-shadow: 0 0 15px rgba(33,33,33,.4); 
   }
+
+  .subtitle{
+    padding-top: .5em;
+  }
   
   .img-mini{
     max-width: 120px;
@@ -35,15 +39,17 @@
     align-items: center;
     padding:5em 0 3em 0 ;
   }
+  .close-to-top{
+    margin-top: .1em;
+  }
 
 </style>
 
-<main id="home">
-
+<main id="selection-diy" class="close-to-top" >
 
   <section class="container">
 
-    <br><br>
+    <br>
     
     <div class="columns is-centered">
       <div class="column is-10 content">
@@ -53,120 +59,180 @@
         </h2>
 
 
-        <hr>
-
-    <div 
-      class="columns is-multiline is-tablet is-centered"
-      style="padding:0 0 3em 0 ;"
-      >
-
-      <div class="column is-12 content"
-        style="margin-bottom: 0em;"
-        >
         <h4 class="has-text-centered">
-          Quelques exemples de sites de démonstration (non officiels) 
-          <br>fonctionnant avec Apiviz/Solidata
+          Notre sélection de matériels DIY
         </h4>
-      </div>
 
-      <div class="column is-4">
+        <hr>
+        <p class="has-text-centered">
 
-        <div class="card-box card">
-          <a href="https://orgues-apiviz.netlify.com/" target="_blank">
-            <div class="card-image">
-              <figure class="image is-5by3">
-                <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-orgues-01.png" alt="Placeholder image">
-              </figure>
+          <a class="link-underlined" href="#education"> 
+            éducation
+          </a>
+          &nbsp; | &nbsp; 
+          <a class="link-underlined" href="#help"> 
+            entraide
+          </a>
+          &nbsp; | &nbsp;  
+          <a class="link-underlined" href="#finance"> 
+            aides
+          </a>
+
+        </p>
+
+          
+
+
+
+
+        <hr id="education">
+        <div >
+          <h2 class="has-text-centered">
+            éducation
+          </h2>
+
+          <div 
+          class="columns is-multiline is-tablet is-centered"
+          style="padding:0 0 3em 0 ;"
+          >
+
+            <div class="column is-4">
+  
+              <div class="card-box card">
+                <a href="https://www.continuitepedagogique.org/" target="_blank">
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/illustrations/other/continuite_pedagogique.png?raw=true" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="title has-text-centered is-5">
+                        Continuité pédagogique 
+                      </p>
+                      <p class="subtitle has-text-centered is-6">
+                          <span class="icon is-small">
+                            <i class="fas fa-external-link-alt"></i>
+                          </span>
+                          website
+                      </p>
+                      </div> 
+                    </div>
+                    <div class="content">
+                      Une communauté de citoyen·nes qui soutiennent les enseignant·es dans leurs pratiques numériques pour assurer (au mieux) la continuité pédagogique durant l’épidémie du coronavirus en France.
+                      [...]
+                    </div>
+                  </div>
+                </a>
+              </div>
+  
             </div>
-            <div class="card-content">
-              <div class="media">
-                <div class="media-content">
-                  <p class="title is-5">Inventaire des orgues</p>
-                  <!-- <p class="subtitle is-6">
+            
+  
+
+
+          </div>
+        </div>
+          
+
+        <hr id="help">
+        <div >
+          <h2 class="has-text-centered">
+            entraide
+          </h2>
+
+          <div 
+          class="columns is-multiline is-tablet is-centered"
+          style="padding:0 0 3em 0 ;"
+          >
+
+          <div class="column is-4">
+  
+            <div class="card-box card">
+              <a href="https://covid19.reserve-civique.gouv.fr/" target="_blank">
+              <div class="card-image">
+                <figure class="image">
+                  <img src="https://covid19.reserve-civique.gouv.fr/images/logo-header.png" alt="Placeholder image">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                    <p class="title has-text-centered is-5">
+                      Réserve civique
+                    </p>
+                    <p class="subtitle has-text-centered is-6">
                       <span class="icon is-small">
                         <i class="fas fa-external-link-alt"></i>
                       </span>
                       website
-                    </p> -->
+                    </p>
+                  </div> 
+                </div>
+                <div class="content">
+                  Face à l’épidémie de Covid-19
+                  le Gouvernement appelle à la mobilisation
+                  générale des solidarités. 
+                  [...]
+                </div>
+              </div>
+            </a>
+            </div>
+
+          </div>
+
+          </div>
+        </div>
+
+
+        <hr id="finance">
+        <div >
+          <h2 class="has-text-centered">
+            aides aux entreprises
+          </h2>
+
+          <div 
+          class="columns is-multiline is-tablet is-centered"
+          style="padding:0 0 3em 0 ;"
+          >
+              
+            <div class="column is-4">
+  
+              <div class="card-box card">
+                <a href="https://www.bpifrance.fr/A-la-une/Actualites/Coronavirus-Bpifrance-active-des-mesures-exceptionnelles-de-soutien-aux-entreprises-49113?fbclid=IwAR1FZxZ5Wc10P-uua4WrTcKJYO-ZKvKCCVzOZkgdFZ_Tv8O83sEFnTKv1IY&utm_source=MAKESENSE+FOR+ENTREPRENEURS&utm_campaign=f991971c65-EMAIL_CAMPAIGN_2020_01_24_02_52_COPY_01&utm_medium=email&utm_term=0_8729f2ba6f-f991971c65-211156689&mc_cid=f991971c65&mc_eid=16d257f3ae" target="_blank">
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="https://www.bpifrance.fr/bundles/bpifrancegeneral/images/layout/bpifrance-logo.png" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="title has-text-centered is-5">
+                        BPI France
+                      </p>
+                      <p class="subtitle has-text-centered is-6">
+                        <span class="icon is-small">
+                          <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        website
+                      </p>
+                    </div> 
+                  </div>
+                  <div class="content">
+                    Pour soutenir les entreprises dont l’activité est impactée par le coronavirus, Bpifrance a mis en place une série de mesures et un accès dédié pour les renseigner et les orienter pour traiter leurs problèmes de trésorerie. 
+                    [...]
                   </div>
                 </div>
-                <!-- <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris. 
-                </div> -->
-            </div>
-          </a>
-        </div>
-
-      </div>
-
-
-      <div class="column is-4">
-
-        <div class="card-box card">
-          <a href="https://tiers-lieux-dataviz.netlify.com/" target="_blank">
-          <div class="card-image">
-            <figure class="image is-5by3">
-              <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-tierslieux-01.png" alt="Placeholder image">
-            </figure>
-          </div>
-          <div class="card-content">
-            <div class="media">
-              <div class="media-content">
-                <p class="title is-5">Tiers lieux et co-working</p>
-                <!-- <p class="subtitle is-6">
-                    <span class="icon is-small">
-                      <i class="fas fa-external-link-alt"></i>
-                    </span>
-                    website
-                </p> -->
-                </div> 
+              </a>
               </div>
-              <!-- <div class="content">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Phasellus nec iaculis mauris.
-              </div> -->
+  
             </div>
-          </a>
+
+          </div>
         </div>
 
-      </div>
-      
-      <div class="column is-4">
-
-        <div class="card-box card">
-          <a href="https://etalab-codes.netlify.com/a-propos" target="_blank">
-          <div class="card-image">
-            <figure class="image is-5by3">
-              <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-codes-01.png" alt="Placeholder image">
-            </figure>
-          </div>
-          <div class="card-content">
-            <div class="media">
-              <div class="media-content">
-                <p class="title is-5">Codes Etalab</p>
-                <!-- <p class="subtitle is-6">
-                  <span class="icon is-small">
-                    <i class="fas fa-external-link-alt"></i>
-                  </span>
-                  website
-                </p> -->
-              </div> 
-            </div>
-            <!-- <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Phasellus nec iaculis mauris.
-            </div> -->
-          </div>
-        </a>
-        </div>
-
-      </div>
-
-
-
-
-    </div>
 
 
 
