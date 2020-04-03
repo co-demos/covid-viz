@@ -42,6 +42,9 @@
   .close-to-top{
     margin-top: .1em;
   }
+  .chapter{
+    padding-top: 1em;
+  }
 
 </style>
 
@@ -62,6 +65,10 @@
         <hr>
         <p class="has-text-centered">
 
+          <a class="link-underlined" href="#health"> 
+            santé
+          </a>
+          &nbsp; | &nbsp; 
           <a class="link-underlined" href="#education"> 
             éducation
           </a>
@@ -78,12 +85,60 @@
 
           
 
+        <hr id="health">
+        <div >
+          <h4 class="has-text-centered chapter">
+            santé
+          </h4>
 
+          <div 
+          class="columns is-multiline is-tablet is-centered"
+          style="padding:0 0 3em 0 ;"
+          >
+
+            <div class="column is-4">
+  
+              <div class="card-box card">
+                <a href="https://sosequipements.fr/" target="_blank">
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="https://sosequipements.fr/doctors.svg" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="title has-text-centered is-5">
+                        SOS équipement 
+                      </p>
+                      <p class="subtitle has-text-centered is-6">
+                          <span class="icon is-small">
+                            <i class="fas fa-external-link-alt"></i>
+                          </span>
+                          website
+                      </p>
+                      </div> 
+                    </div>
+                    <div class="content">
+                      Ils sont en première ligne. Aidons-les à trouver le matériel dont ils manquent cruellement.
+                      [...]
+                    </div>
+                  </div>
+                </a>
+              </div>
+  
+            </div>
+            
+  
+
+
+          </div>
+        </div>
 
 
         <hr id="education">
         <div >
-          <h4 class="has-text-centered">
+          <h4 class="has-text-centered chapter">
             éducation
           </h4>
 
@@ -134,7 +189,7 @@
 
         <hr id="help">
         <div >
-          <h4 class="has-text-centered">
+          <h4 class="has-text-centered chapter">
             entraide
           </h4>
 
@@ -219,7 +274,7 @@
 
         <hr id="finance">
         <div >
-          <h4 class="has-text-centered">
+          <h4 class="has-text-centered chapter">
             aides aux entreprises
           </h4>
 
