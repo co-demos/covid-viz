@@ -1,0 +1,297 @@
+<style>
+
+  .card-box {
+    transition: box-shadow .3s;    
+  }
+  .card-box:hover {
+    box-shadow: 0 0 15px rgba(33,33,33,.4); 
+  }
+
+  .subtitle{
+    padding-top: .5em;
+  }
+  
+  .img-mini{
+    max-width: 120px;
+    height: auto;
+  }
+  .img-medium{
+    max-width: 250px;
+    height: auto;
+  }
+  .img-large{
+    max-width: 400px;
+    height: auto;
+  }
+  figure {
+    margin: auto !important;
+    margin-left: 0 !important;
+    margin-right:0 !important;
+  }
+  .is-horizontal-center {
+    justify-content: center;
+  }
+  .graph{
+    width: auto;
+    height: 400px !important;
+  }
+  .top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5em 0 3em 0 ;
+  }
+  .close-to-top{
+    margin-top: .1em;
+  }
+  .chapter{
+    padding-top: 1em;
+  }
+
+</style>
+
+<main id="selection-diy" class="close-to-top" >
+
+  <section class="container">
+
+    <br>
+    
+    <div class="columns is-centered">
+      <div class="column is-10 content">
+
+        <h4 class="has-text-centered">
+LA NOSTRA SELEZIONE DI MATERIALI
+        </h4>
+
+
+        <!-- <h4 class="has-text-centered">
+          Notre sélection de matériels DIY
+        </h4> -->
+
+        <hr>
+        <p class="has-text-centered">
+
+          <a class="link-underlined" href="#3D-printing"> 
+            design validati
+          </a>
+          &nbsp; | &nbsp;  
+          <a class="link-underlined" href="#ventilators"> 
+            respiratori DIY
+          </a>
+          &nbsp; | &nbsp; 
+          <a class="link-underlined" href="#masks"> 
+            mascherine
+          </a>
+
+        </p>
+
+          
+
+        <hr id="3D-printing">
+        <div >
+          <h4 class="has-text-centered chapter">
+            Design validati e testati da 
+            <a href="https://www.aphp.fr/" taget="_blank">
+              APHP
+            </a>
+          </h4>
+
+          <div 
+            class="columns is-multiline is-tablet is-centered"
+            style="padding:0 0 3em 0 ;"
+            >
+
+            <div class="column is-4">
+
+              <div class="card-box card">
+                <a href="https://covid3d.org/projects" target="_blank">
+                  <div class="card-image">
+                    <figure class="image">
+                      <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/illustrations/other/3D_covid_illus.png?raw=true" alt="Placeholder image">
+                    </figure>
+                  </div>
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-content">
+                        <p class="title has-text-centered is-5">
+                          3D COVID
+                        </p>
+                        <p class="subtitle has-text-centered is-6">
+                            <span class="icon is-small">
+                              <i class="fas fa-external-link-alt"></i>
+                            </span>
+                            website
+                          </p>
+                        </div>
+                      </div>
+                      <div class="content">
+                        Plateforme interne d'impression haut-débit pour répondre aux besoins sanitaires urgents des soignants
+                        Fédération des initiatives de conception et d’impression 3D pour lutter contre le COVID-19 en Île-de-France 
+                        [...]
+                      </div>
+                  </div>
+                </a>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+
+        <hr id="ventilators">
+        <div >
+          <h4 class="has-text-centered chapter">
+            Respiratori
+          </h4>
+
+          <div 
+            class="columns is-multiline is-tablet is-centered"
+            style="padding:0 0 3em 0 ;"
+            >
+
+            <div class="column is-4">
+  
+              <div class="card-box card">
+                <a href="https://www.mur-project.org/" target="_blank">
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="https://mur-project.org/wp-content/uploads/2020/04/cropped-20200402_114037-3-scaled-1.jpg" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="title has-text-centered is-5">
+                        MUR - Minimal Universal Respirator
+                      </p>
+                      <p class="subtitle has-text-centered is-6">
+                          <span class="icon is-small">
+                            <i class="fas fa-external-link-alt"></i>
+                          </span>
+                          website
+                      </p>
+                      </div> 
+                    </div>
+                    <div class="content">
+                      Aujourd’hui, le monde médical manque de respirateurs pour pouvoir travailler convenablement et sauver le maximum de vies.
+                      Depuis le lundi 16 mars, nous - le Club Sandwich Studio - nous sommes attelés à la création d’un dispositif de respiration artificielle d’urgence, peu onéreux et facilement reproductible. 
+                      <!-- Nous l’avons conçu à partir du minimum de matériel possible et en favorisant l’utilisation de composants accessibles au plus grand nombre. -->
+                      [...]
+                    </div>
+                  </div>
+                </a>
+              </div>
+  
+            </div>
+            
+  
+            <div class="column is-4">
+  
+              <div class="card-box card">
+                <a href="https://e-vent.mit.edu/" target="_blank">
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="https://e-vent.mit.edu/wp-content/uploads/2020/03/002-testing-scaled-e1585667885526-2048x1226.jpg" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="title has-text-centered is-5">
+                        MIT Emergency Ventilator (E-Vent) Project
+                      </p>
+                      <p class="subtitle has-text-centered is-6">
+                        <span class="icon is-small">
+                          <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        website
+                      </p>
+                    </div> 
+                  </div>
+                  <div class="content">
+                    The goal of this site is to provide the best information we can, focused around safety, on automating a manual resuscitator, as a potential means for longer-term ventilation. 
+                    This is a completely off-label use, but we recognize the global interest when a hospital has used up all ventilators and the only option is manual bagging a patient. 
+                    <!-- We hope that such systems may serve as bridge devices and help with the triage of available respirators and clinicians trained in respiratory therapy. This may allow less severe patients to be cared for by less specialized clinicians, while resources are focused on those most in need. However, at no time should a patient be unattended without someone skilled available to directly monitor their vital signs. -->
+                    [...]
+                  </div>
+                </div>
+              </a>
+              </div>
+  
+            </div>
+
+          </div>
+
+        </div>
+          
+
+
+
+
+        <hr id="masks">
+        <div >
+          <h4 class="has-text-centered chapter">
+            Mascherine
+          </h4>
+
+          <div 
+            class="columns is-multiline is-tablet is-centered"
+            style="padding:0 0 3em 0 ;"
+            >
+              
+            <div class="column is-4">
+  
+              <div class="card-box card">
+                <a href="https://www.avosmasques.fr/" target="_blank">
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="https://static.wixstatic.com/media/bf6f60_ab93f95936a640d3bff8cebd615d81d7~mv2.png/v1/fill/w_394,h_220,al_c,q_85,usm_0.66_1.00_0.01/logo.webp" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="title has-text-centered is-5">
+                        A vos masques
+                      </p>
+                      <p class="subtitle has-text-centered is-6">
+                        <span class="icon is-small">
+                          <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        website
+                      </p>
+                    </div> 
+                  </div>
+                  <div class="content">
+                    L’usage et l’efficacité de ces masques buccaux non-médicaux ne remplace pas celui d’une masque FFP2. 
+                    Cependant, il vaut mieux des masques en tissu que pas de masque du tout. Ces masques sont destinés aux personnes qui ne sont pas en contact direct avec des cas suspectés ou avérés du COVID-19. 
+                    <!-- Les laver à 90°c avec un détergent après chaque utilisation (ils ne doivent pas être utilisés plus de plusieurs heures). -->
+                    [...]
+                  </div>
+                </div>
+              </a>
+              </div>
+  
+            </div>
+
+          </div>
+
+        </div>
+
+
+
+
+        <br>
+        <br>
+        
+      </div>
+    </div>
+  </section>
+
+
+  <br>
+  <br>
+
+</main>
