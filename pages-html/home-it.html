@@ -1,0 +1,542 @@
+<style>
+
+  .img-mini{
+    max-width: 120px;
+    height: auto;
+  }
+  .img-medium{
+    max-width: 200px;
+    height: auto;
+  }
+  .img-large{
+    max-width: 400px;
+    height: auto;
+  }
+  figure {
+    margin: auto;
+  }
+  .is-horizontal-center {
+    justify-content: center;
+  }
+  .graph{
+    width: auto;
+    height: 400px !important;
+  }
+  .top-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5em 0 3em 0 ;
+  }
+
+
+  .card-box {
+    transition: box-shadow .3s;    
+  }
+  .card-box:hover {
+    box-shadow: 0 0 15px rgba(33,33,33,.4);
+  }
+
+  .card-content {
+    transition: background-color .3s;    
+  }
+  .card-content:hover {
+    background-color: #EC1657;
+    color:white;
+  }
+
+  .img-logo{
+    width: auto;
+    height: 120px !important;
+  }
+
+</style>
+
+<main id="home">
+
+
+  <!-- INTRO -->
+  <section id="top" class="hero primary-bg">
+    <div
+      class="background columns is-centered " 
+      style="
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding:4em 0;
+        "
+      >
+
+      <div class="column is-9">
+
+        <br>
+        
+        <div class="has-text-centered content is-horizontal-center">
+          <figure class="image img-medium is-inline-block">
+            <!-- <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/logos/virus-image-002.png" alt="Placeholder image"> -->
+            <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/graphisme/logos/logo_covinit_white_text_3.png" alt="Placeholder image">
+            <!-- <img src="http://localhost:8800/statics/graphisme/logos/logo_covinit_white_text_3.png" alt="Placeholder image"> -->
+          </figure>
+        </div>
+        <br>
+
+
+        <h1 class="title is-1 has-text-centered ">
+          La Francia dei makers
+          <br>
+        </h1>
+        <h1 class="subtitle is-2 has-text-centered ">
+          Aiuto reciproco e auto-organizzazione
+          per fronteggiare la pandemia ! 
+        </h1>
+
+        <br>
+        <br>
+
+        <!-- MAIN BUTTONS -->
+        <div class="columns">
+
+
+          <div class="column is-third">
+            <div class="card-box card is-link is-link-b">
+              <a href="/diy">
+                <!-- <div class="card-image">
+                  <figure class="image is-5by3">
+                    <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-orgues-01.png" alt="Placeholder image">
+                  </figure>
+                </div> -->
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content has-text-centered">
+
+                        <!-- <button class="button is-rounded is-medium">
+                          <span class="icon is-medium">
+                            <i class="fas fa-cubes"></i>
+                          </span>
+                        </button> -->
+
+                        <figure class="image is-5by3">
+                          <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/graphisme/covid-illustrations/illu_ventilateur_2.png" alt="Placeholder image">
+                        </figure>
+
+                    </div>
+                  </div>
+                  <div class="content has-text-centered has-text-white">
+                    <p class="title is-5 has-text-centered has-text-white">
+                      MATERIALE DIY
+                    </p>
+                    <br>
+                      Cerco dei piani 3D o tutorials condivisi 
+                      dalla comunità dei makers per fabbricare 
+                      del materiale sanitario di fortuna
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="column is-third">
+            <div class="card-box card is-link is-link-b">
+              <!-- <a href="/printers">s -->
+              <a href="/kifekoi">
+                <!-- <div class="card-image">
+                  <figure class="image is-5by3">
+                    <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-orgues-01.png" alt="Placeholder image">
+                  </figure>
+                </div> -->
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content has-text-centered">
+
+                        <!-- <button class="button is-rounded is-medium">
+                          <span class="icon is-medium">
+                            <i class="fas fa-map-marked-alt"></i>
+                          </span>
+                        </button> -->
+
+                        <figure class="image is-5by3">
+                          <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/graphisme/covid-illustrations/illu_entraide_2.png" alt="Placeholder image">
+                        </figure>
+
+                    </div>
+                  </div>
+                  <div class="content has-text-centered has-text-white">
+                    <p class="title is-5 has-text-centered has-text-white">
+                      CHI FA COSA E DOVE
+                    </p>
+                    <br>
+                      Voglio conoscere meglio lo stato e la capacità di produzione delle diverse strutture che si sono mobilitate
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="column is-third">
+            <div class="card-box card is-link is-link-b">
+              <a href="/recherche">
+                <!-- 
+                <div class="card-image">
+                  <figure class="image is-5by3">
+                    <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/graphisme/covid-illustrations/illu_makers_2.png" alt="Placeholder image">
+                  </figure>
+                </div> -->
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      <p class="subtitle is-6 has-text-centered">
+
+                        <!-- <button class="button is-rounded is-medium">
+                          <span class="icon is-medium">
+                            <i class="far fa-lightbulb"></i>
+                          </span>
+                          </button> -->
+
+                          <figure class="image is-5by3">
+                            <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/graphisme/covid-illustrations/illu_initiative_2.png" alt="Placeholder image">
+                          </figure>
+
+                        </p>
+                        <p class="title is-5 has-text-centered has-text-white">
+                      </p>
+                    </div>
+                  </div>
+                  <div class="content has-text-centered has-text-white">
+                    <p class="title is-5 has-text-centered has-text-white">
+                      INIZIATIVE
+                    </p>
+                    <br>
+                    Cerco delle iniziative fra tutte quelle che sono attualmente elencate dalla comunità: applicazioni, gruppi di discussione, sito di aiuto reciproco…
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div class="column is-third">
+            <div class="card-box card is-link is-link-b">
+              <!-- <a href="/printers">s -->
+              <a href="/map-ext">
+                <!-- <div class="card-image">
+                  <figure class="image is-5by3">
+                    <img src="https://raw.githubusercontent.com/co-demos/apiviz-website-demo/master/illustrations/screenshots/apiviz-orgues-01.png" alt="Placeholder image">
+                  </figure>
+                </div> -->
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-content has-text-centered">
+
+                        <!-- <button class="button is-rounded is-medium">
+                          <span class="icon is-medium">
+                            <i class="fas fa-map-marked-alt"></i>
+                          </span>
+                        </button> -->
+
+                        <figure class="image is-5by3">
+                          <img src="https://raw.githubusercontent.com/co-demos/covid-viz/master/graphisme/covid-illustrations/illu_makers_2.png" alt="Placeholder image">
+                        </figure>
+
+                    </div>
+                  </div>
+                  <div class="content has-text-centered has-text-white">
+                    <p class="title is-5 has-text-centered has-text-white">
+                      MAPPE DEI MAKERS
+                    </p>
+                    <br>
+                    Chi produce vicino a casa tua ? Quali iniziative di fabbricazione in prossimità ? Quali sono i gruppi di makers intorno a te?
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+        </div>
+        
+      </div>
+    </div>
+  </section>
+
+
+  <!-- TEXTES -->
+  <section class="container">
+
+    <div class="columns is-centered">
+      <div class="column is-10 content">
+        
+        <p>
+La piattaforma Covid-Initatives elenca delle iniziative promosse dalla società civile per fronteggiare la pandemia di Covid-19. 
+          <b>
+Dall’inizio della crisi, numerosi cittadini si mobilitano, si raggruppano in azione collettiva tramite differenti piattaforme di scambio e si auto-organizzano in comune per fornire delle risposte di emergenza. 
+          </b>
+Dappertutto, l’aiuto reciproco e l’auto-organizzazione dimostrano la loro capacità a fornire delle soluzioni credibili, che si tratti di assicurare la continuità pedagogica, di garantire l’approvvigionamento alimentare delle persone in difficoltà, di venire in aiuto alle persone che vivono da sole o di creare dei prototipi di materiale sanitario per provare a rispondere alle emergenze.
+        </p><br>
+
+        <p>
+Le iniziative aumentano ad una velocità così tale che diventa difficile trovare quel che serve ed orientarsi nel moltiplicarsi delle informazioni.
+        </p>
+        <br>
+
+        <p>
+Il nostro sito mira ad elencare quanto possibile tutte queste iniziative e prova a fornire nel modo più leggibile tutti questi progetti che emergono dall’ impegno cittadino. Cerchiamo anzitutto di aiutare quelli che fanno, questi cittadini che contribuiscono, i makers  -artigiani, ingegneri, appassionati di bricolage, makers di qualsiasi cosa di utile – che agiscono nell’emergenza.
+        </p>
+        
+
+        <hr>
+        <h2 class="has-text-centered">
+Come aiutarci ?
+        </h2>
+        <br>
+        <div class="columns is-centered">
+          
+
+          <!-- DIIY -->
+          <div class="column is-third">
+            <div class="has-text-centered" >
+              <a 
+              class="button has-text-weight-bold is-primary is-primary-b is-large"
+              href="https://docs.google.com/spreadsheets/d/1GkayeJlizkmMDtc8o6NG7PGhrhnAp706Zp8wH-Fuo2g/edit?usp=sharing"
+              target="_blank"
+              >
+Aggiungo un materiale DIY
+              </a>
+            </div>
+            <br>
+            <h4 class="has-text-centered">
+Vuoi segnalare un materiale DIY che non c’è nel 
+              <a class="link-underlined" href="/diy/liste">
+nostro elenco
+              </a>
+            </h4>
+            <p>
+Cerchiamo di elencare il più possibile piani DIY che permettono di fabbricare del materiale sanitario in caso di carenza di approvvigionamento nelle strutture ospedaliere o sanitarie
+            </p>
+
+          </div>
+
+          <!-- INIITIATIVES -->
+          <div class="column is-third">
+            <div class="has-text-centered" >
+              <a 
+              class="button has-text-weight-bold is-primary is-primary-b is-large"
+              href="https://docs.google.com/spreadsheets/d/1yn4L7EpnHdk0JXdr0E0DRnokDZaeFYIT1zIq5lKxQSE/edit?usp=sharing"
+              target="_blank"
+              >
+Aggiungo un’iniziativa
+              </a>
+            </div>
+            <br>
+            <h4 class="has-text-centered">
+Vuoi segnalare un’iniziativa che non c’è nel 
+              <a class="link-underlined" href="/recherche/liste">
+nostro elenco
+              </a>
+            </h4>
+            <p>
+Cerchiamo di elencare il maggior numero possibile di iniziative digitali (Apps, mutuo aiuto, ecc.) contro il covid-19 per meglio orientare le persone e documentare questo sforzo collettivo di cooperazione.
+            </p>
+
+          </div>
+
+          <!-- KIFEKOI -->
+          <div class="column is-third">
+            <div class="has-text-centered" >
+              <a 
+              class="button has-text-weight-bold is-primary is-primary-b is-large"
+              href="https://docs.google.com/spreadsheets/d/1oBqrnc6CVqXER4pueCtqp7-a-M-o4o7n9T41r69On2M/edit?usp=sharing"
+              target="_blank"
+              >
+Cosa produco ? Dove?
+              </a>
+            </div>
+            <br>
+            <h4 class="has-text-centered">
+Hai un fablab dove produci te stesso del materiale sanitario DIY
+            </h4>
+            <p>
+Cerchiamo di elencare le capacità di produzione dei siti che sanno produrre e producono ora del materiale sanitario  DIY… 
+              <a class="link-underlined" href="/printers/liste">
+nostro elenco
+              </a>
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  
+    <br>
+  </section>
+
+
+  <!--PARTNERS -->
+  <section class="container">
+
+    <div class="columns is-centered">
+      
+      <div class="column is-11 content">
+        
+        <hr>
+        <h2 class="has-text-centered">
+ I nostri partners
+        </h2>
+        <br>
+
+        <div class="columns is-centered is-multiline">
+
+          <!-- MAKERY -->
+          <div class="column is-3 content is-horizontal-center has-text-centered">
+            <a href="https://www.makery.info/" target="_blank">
+              <figure class="image img-medium is-inline-block">
+                <img class="img-logo" src="https://www.makery.info/wp-content/themes/makery/assets/imgs/makery-logo-baseline.png" alt="Placeholder image">
+              </figure>
+            </a>
+            <br>
+            <a class="link-underlined" href="https://www.makery.info" target="_blank">
+              Makery
+            </a>
+          </div>
+
+          <!-- FABRICOMMUNNS -->
+          <div class="column is-3 content is-horizontal-center has-text-centered">
+            <a href="https://fabricommuns.org/" target="_blank">
+              <figure class="image img-medium is-inline-block">
+                <img class="img-logo" src="https://raw.githubusercontent.com/co-demos/covid-viz/master/logos/logo_fabricommuns_new_bis.png" alt="Placeholder image">
+              </figure>
+            </a>
+            <br>
+            <a class="link-underlined" href="https://fabricommuns.org/" target="_blank">
+              FabriCommuns
+            </a>
+          </div>
+
+          <!-- RFF -->
+          <div class="column is-3 content is-horizontal-center has-text-centered">
+            <a href="http://www.fablab.fr/coronavirus/prototypage-et-projets/" target="_blank">
+              <figure class="image img-medium is-inline-block">
+                <img class="img-logo" src="https://raw.githubusercontent.com/co-demos/covid-viz/master/logos/RFF_logo_square_bis.png" alt="Placeholder image">
+              </figure>
+            </a>
+            <br>
+            <a class="link-underlined" href="http://www.fablab.fr/coronavirus/prototypage-et-projets/" target="_blank">
+              Réseau Français des Fablabs
+            </a>
+          </div>
+
+          <!-- FTL -->
+          <div class="column is-3 content is-horizontal-center has-text-centered">
+            <a href="https://francetierslieux.fr/etude-dimpact-de-la-crise-covid-19-sur-les-tiers-lieux/" target="_blank">
+              <figure class="image img-medium is-inline-block">
+                <img class="img-logo" src="https://raw.githubusercontent.com/co-demos/covid-viz/master/logos/FTL_logo_bis.png" alt="Placeholder image">
+              </figure>
+            </a>
+            <br>
+            <a class="link-underlined" shref="https://francetierslieux.fr/etude-dimpact-de-la-crise-covid-19-sur-les-tiers-lieux/" target="_blank">
+              France Tiers-Lieux
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </section>
+
+
+  <!-- WHO ARE WE -->
+  <section class="container">
+
+    <div class="columns is-centered">
+      
+      <div class="column is-10 content">
+        
+        <hr>
+        <h2 class="has-text-centered">
+Chi siamo
+        </h2>
+        
+        <p class="has-text-centered">
+COVID-Initiatives è sostenuto da un collettivo di cittadini volontari :
+        </p>
+        <p class="has-text-centered">
+
+          Sophie Aflolo <br> 
+          Mathilde Berchon <br>
+          Constance Garnier <br> 
+          Antonin Garrone <br>
+          Antoine Henry <br>
+          Elise Lalique <br> 
+          Nicolas Loubet <br> 
+          Julien Paris <br>
+          Nicolas Roesch <br>
+          Thomas Sanz <br>
+          Rémy Seillier <br>
+          Alix Vanderschooten <br>
+
+        </p>
+        <p class="has-text-left">
+Il sito è concepito come un common digitale e mira a presentare un ritratto più completo possibile della mobilitazione del movimento makers contro la pandemia. Operiamo nel rispetto dei commons e in collaborazione con la comunità dei makers massicciamente mobilitata per fronteggiare la crisi attuale.
+        </p>
+        <p class="has-text-left">
+Ti invitiamo vivamente a contattarci se vuoi aiutarci in questo lavoro di elencazione delle solidarietà, per rendere più visibili le iniziative solidali e per aiutare quelli che vorrebbero contribuire ad orientarsi fra le varie iniziative. Tutte le energie sono le benvenute.
+        </p>
+        <p class="has-text-left">
+Nello stesso modo, se abbiamo mancato qualcosa, non esitare a scriverci al fine di completare  l’elenco delle informazioni.
+        </p>
+        <p class="has-text-centered">
+          <!-- <a href="mailto:covid.initiatives@gmail.com?subject=[Covid-fr] Contact"> -->
+          <a href="mailto:contact@covid-initiatives.org?subject=[Covid-fr] Contact">
+            <span class="icon is-small">
+              <i class="far fa-envelope"></i>
+            </span>
+            <!-- <b>covid.initiatives@gmail.com</b> -->
+            <b>contact@covid-initiatives.org </b>
+          </a>
+        </p>
+
+      </div>
+
+    </div>
+    
+    <br>
+  </section>
+
+
+  <!-- GARANTIE -->
+  <section class="container">
+
+    <div class="columns is-centered">
+      <div class="column is-10 content">
+        
+        <hr>
+        <br><br>
+
+        <p class="has-text-centered">
+          <b>
+SENZA ALCUNA GARANZIA NE’ IMPEGNO
+          </b>
+        </p>
+        <p>
+          <b>
+Questo sito non propone consigli medicali e gli editori del sito non possono in nessun caso essere ritenuti responsabili della veridicità dei produttori elencati, della qualità dei materiali che forniscono, nè in generale delle informazioni diffuse su questo sito.          </b>
+        </p>
+
+        <br>
+        <br>
+        
+      </div>
+    </div>
+  </section>
+
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+</main>
